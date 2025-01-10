@@ -7,7 +7,7 @@
       
     
 
-How to reach me: Zhenyan0731@gmail.com
+Gmail: Zhenyan0731@gmail.com
 
 
 
