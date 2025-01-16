@@ -40,8 +40,7 @@
 ## 📫 聯繫我  
 - 📧 Email: **zhenyan0731@gmail.com**  
 - 🌐 個人網站: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
-- 🔗 LinkedIn: [LinkedIn Profile](#) *(可選擇新增你的 LinkedIn 頁面)*  
-- 📁 Kaggle: [Kaggle Profile](#) *(可選擇新增你的 Kaggle 頁面)*  
+- 📁 Kaggle: [Kaggle Profile]((https://www.kaggle.com/zhenyanoo)) *(可選擇新增你的 Kaggle 頁面)*  
 
 ---
 
