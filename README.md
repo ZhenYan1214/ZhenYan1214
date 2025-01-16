@@ -29,9 +29,9 @@
 ---
 
 ## 🔧 技術技能  
-- **程式語言**：Python, JavaScript, SQL  
-- **數據分析工具**：Pandas, Matplotlib, Power BI  
-- **前端開發**：HTML5, CSS3, React.js  
+- **程式語言**：Python, JavaScript, SQL, Solidity  
+- **數據分析工具**：Pandas, Matplotlib 
+- **前端開發**：HTML5, CSS3
 - **後端技術**：Node.js, Flask  
 - **其他技能**：Solidity (智能合約開發), Mapbox (地圖視覺化)  
 
