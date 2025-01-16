@@ -1,45 +1,48 @@
-## Hi I am Yu-ZhenYan 👋
-## National Taipei University of Technology
+# 👋 Hi, I'm Yu-Zhen Yan  
+🎓 **National Taipei University of Technology** | 📧 **zhenyan0731@gmail.com**
+
+---
+
+## 🔭 關於我  
+🌱 我是一位熱衷於技術學習與專案實作的大三學生，目前專注於數據分析、全端開發以及區塊鏈技術的探索。  
+
+💡 我喜歡挑戰自我，參與不同的競賽以提升實務經驗，同時也努力通過學習取得專業證照來鞏固基礎。  
 
 
+---
 
+## 🏆 競賽經歷  
+- **2024 第三屆點子松入圍 - 點子獎**  
+- **桃園客語 AI 黑克松 - 決賽**  
 
-      
-    
+---
 
-Gmail: Zhenyan0731@gmail.com
+## 📜 獲取證照  
+- **TQC PowerPoint/Excel 進階級**  
+- **證券商高級業務員**  
+- **投信投顧業務員**  
+- **金融科技力 / 金融常識與道德**  
+- **IPASS 資安初級工程師 / ISC2 CC**  
+- **會計人工 / 資訊丙級**  
+- **電腦軟體應用乙級**  
 
+---
 
+## 🔧 技術技能  
+- **程式語言**：Python, JavaScript, SQL  
+- **數據分析工具**：Pandas, Matplotlib, Power BI  
+- **前端開發**：HTML5, CSS3, React.js  
+- **後端技術**：Node.js, Flask  
+- **其他技能**：Solidity (智能合約開發), Mapbox (地圖視覺化)  
 
-      
+---
 
-### 競賽經歷  
+## 📫 聯繫我  
+- 📧 Email: **zhenyan0731@gmail.com**  
+- 🌐 個人網站: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
+- 🔗 LinkedIn: [LinkedIn Profile](#) *(可選擇新增你的 LinkedIn 頁面)*  
+- 📁 Kaggle: [Kaggle Profile](#) *(可選擇新增你的 Kaggle 頁面)*  
 
-- 2024第三屆點子松入圍-點子獎  
+---
 
-- 桃園客語AI黑克松-決賽
-
-### 獲取證照  
-- TQC PPT/Excel 進階級  
-- 證券商高級業務員
-- 投信投顧業務員  
-- 金融科技力/金融常識與道德  
-- IPASS資安初級工程師/ISC2 CC  
-- 會計人工/資訊丙級  
-- 電腦軟體應級乙級
-
-
-<!--
-**ZhenYan1214/ZhenYan1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Let's connect and build something great together!**
