@@ -4,36 +4,37 @@
 ---
 
 ## 🔭 關於我  
-🌱 我是一位熱衷於技術學習與專案實作的大三學生，目前專注於數據分析、全端開發以及區塊鏈技術的探索。  
+🌱 I’m a junior student passionate about technical learning and hands-on projects, with a current focus on data analysis, full-stack development, and blockchain technologies.
 
-💡 我喜歡挑戰自我，參與不同的競賽以提升實務經驗，同時也努力通過學習取得專業證照來鞏固基礎。  
-
-
----
-
-## 🏆 競賽經歷  
-- **2024 第三屆點子松入圍 - 點子獎**  
-- **桃園客語 AI 黑克松 - 決賽**
-- **ETHGlobal Hackson - finalist**
+💡 I enjoy challenging myself through various hackathons and competitions to gain real-world experience. I also pursue professional certifications to strengthen my technical foundation.
 
 ---
 
-## 📜 獲取證照  
-- **TQC PowerPoint/Excel 進階級**  
-- **證券商高級業務員**  
-- **投信投顧業務員**  
-- **金融科技力 / 金融常識與道德**  
-- **IPASS 資安初級工程師 / ISC2 CC**  
-- **會計人工 / 資訊丙級**  
-- **電腦軟體應用乙級**  
+## 🏆 Competition Experience  
+
+- 2024 Ideathon Finalist – Innovation Award
+- Taoyuan Hakka AI Hackathon – Finalist
+- ETHGlobal Hackson – Finalist
+---
+
+## 📜 Certifications  
+- TQC Advanced PowerPoint / Excel
+- Securities Senior Sales Representative
+- SITC Sales Representative
+- FinTech Competency / Financial Literacy & Ethics
+- IPASS Cybersecurity Associate / ISC2 Certified in Cybersecurity (CC)
+- Accounting Assistant / CSIE Class C Technician
+- Software Application Class B Technician
+
+
 
 ---
 
 
 ## 📫 聯繫我  
 - 📧 Email: **zhenyan0731@gmail.com**  
-- 🌐 個人網站: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
-- 📁 Kaggle: [Kaggle Profile]((https://www.kaggle.com/zhenyanoo)) *(可選擇新增你的 Kaggle 頁面)*  
+- 🌐 Portfolio: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
+- 📁 Kaggle: [Kaggle Profile]((https://www.kaggle.com/zhenyanoo)) 
 
 ---
 
