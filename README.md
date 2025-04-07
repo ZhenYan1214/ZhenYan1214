@@ -31,7 +31,7 @@
 ---
 
 
-## 📫 聯繫我  
+## 📫 Contact Me 
 - 📧 Email: **zhenyan0731@gmail.com**  
 - 🌐 Portfolio: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
 - 📁 Kaggle: [Kaggle Profile]((https://www.kaggle.com/zhenyanoo)) 
