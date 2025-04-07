@@ -14,7 +14,7 @@
 ## 🏆 競賽經歷  
 - **2024 第三屆點子松入圍 - 點子獎**  
 - **桃園客語 AI 黑克松 - 決賽**
-- **ETHGlobal Hackson - finalist **
+- **ETHGlobal Hackson - finalist**
 
 ---
 
