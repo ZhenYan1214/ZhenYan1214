@@ -31,11 +31,11 @@ I enjoy challenging myself through various hackathons and competitions to gain r
 ---
 
 
-## 📫 Contact Me 
-- 📧 Email: **zhenyan0731@gmail.com**  
-- 🌐 Portfolio: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
-- 📁 Kaggle: [Kaggle Profile]((https://www.kaggle.com/zhenyanoo)) 
+## Contact Me 
+- Email: **zhenyan0731@gmail.com**  
+- Portfolio: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
+- Kaggle: [Kaggle Profile]((https://www.kaggle.com/zhenyanoo)) 
 
 ---
 
-💬 **Let's connect and build something great together!**
+**Let's connect and build something great together!**
