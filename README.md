@@ -3,21 +3,21 @@
 
 ---
 
-## 🔭 About Me 
-🌱 I’m a junior student passionate about technical learning and hands-on projects, with a current focus on data analysis, full-stack development, and blockchain technologies.
+## About Me 
+I’m a junior student passionate about technical learning and hands-on projects, with a current focus on data analysis, full-stack development, and blockchain technologies.
 
-💡 I enjoy challenging myself through various hackathons and competitions to gain real-world experience. I also pursue professional certifications to strengthen my technical foundation.
+I enjoy challenging myself through various hackathons and competitions to gain real-world experience. I also pursue professional certifications to strengthen my technical foundation.
 
 ---
 
-## 🏆 Competition Experience  
+## Competition Experience  
 
 - 2024 Ideathon Finalist – Innovation Award
 - Taoyuan Hakka AI Hackathon – Finalist
 - ETHGlobal Hackson – Finalist
 ---
 
-## 📜 Certifications  
+## Certifications  
 - TQC Advanced PowerPoint / Excel
 - Securities Senior Sales Representative
 - SITC Sales Representative
