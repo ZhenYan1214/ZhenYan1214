@@ -25,7 +25,7 @@ I enjoy challenging myself through various hackathons and competitions to gain r
 ### **Blockchain**
 <p>
   <img src="https://skillicons.dev/icons?i=solidity" height="40" />
-  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" height="40" />
+  <img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" height="40" />
 </p>
 
 ---
