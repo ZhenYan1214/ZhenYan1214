@@ -1,62 +1,57 @@
-# Yu-Zhen Yan
-National Taipei University of Technology  
-Email: **zhenyan0731@gmail.com**  
-Portfolio: https://zhenyan1214.github.io/ZhenYan-Website/
+# 👋 Hi, I'm Yu-Zhen Yan  
+**National Taipei University of Technology** | 📧 **zhenyan0731@gmail.com**
 
 ---
 
-## Overview
-I am a developer focused on full-stack web applications, blockchain systems, and data-driven development.  
-My work is driven by hands-on experiments, technical depth, and iterative prototyping.  
-I actively participate in hackathons to validate ideas under real constraints and accelerate learning.
+## About Me 
+I’m a junior student passionate about technical learning and hands-on projects, with a current focus on data analysis, full-stack development, and blockchain technologies.
 
+I enjoy challenging myself through various hackathons and competitions to gain real-world experience. I also pursue professional certifications to strengthen my technical foundation.
+
+## Tech Stack
+<div align="center">
+
+### Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,vue" height="48" />
+
+### Backend / System  
+<img src="https://skillicons.dev/icons?i=python,go,nodejs,linux,docker,git" height="48" />
+
+### Blockchain  
+<img src="https://skillicons.dev/icons?i=solidity" height="48" />
+<img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=fire&logoColor=white" height="48" />
+
+</div>
+
+
+## Competition Experience  
+
+- 2024 Ideathon Finalist – Innovation Award
+- Taoyuan Hakka AI Hackathon – Finalist
+- ETHGlobal Hackson Taipei – Finalist
+- ETHGlobal Hackson Online - Avail 4th Place
+- Landseed University IT Innovation Competition – 2nd Place
 ---
 
-## Core Skills
-
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue" height="42" />
-</p>
-
-#### Backend & System
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,nodejs,linux,docker,git" height="42" />
-</p>
-
-#### Blockchain Development
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity" height="42" />
-  <img src="https://img.shields.io/badge/Foundry-181818?style=flat&logo=fire&logoColor=white" height="42" />
-</p>
-
----
-
-## Selected Competition Results
-| Event | Result |
-|-------|--------|
-| ETHGlobal Hackathon – Online | Avail Track – 4th Place |
-| ETHGlobal Hackathon – Taipei | Finalist |
-| 2024 Ideathon | Innovation Award |
-| Hakka AI Hackathon | Finalist |
-| Landseed IT Innovation Competition | 2nd Place |
-
----
-
-## Certifications
-- ISC2 Certified in Cybersecurity (CC)
-- IPASS Cybersecurity Associate
-- FinTech Competency Certification
+## Certifications  
+- TQC Advanced PowerPoint / Excel
 - Securities Senior Sales Representative
 - SITC Sales Representative
-- TQC Advanced PowerPoint / Excel
-- Accounting Assistant
-- CSIE Class C Technician
+- FinTech Competency / Financial Literacy & Ethics
+- IPASS Cybersecurity Associate / ISC2 Certified in Cybersecurity (CC)
+- Accounting Assistant / CSIE Class C Technician
 - Software Application Class B Technician
+
+
 
 ---
 
-## Contact
-Email: **zhenyan0731@gmail.com**  
-Portfolio: **ZhenYan-Website**  
-Kaggle: **https://www.kaggle.com/zhenyanoo**
+
+## Contact Me 
+- Email: **zhenyan0731@gmail.com**  
+- Portfolio: [ZhenYan-Website](https://zhenyan1214.github.io/ZhenYan-Website/)  
+- Kaggle: [Kaggle Profile]((https://www.kaggle.com/zhenyanoo)) 
+
+---
+
+**Let's connect and build something great together!**
