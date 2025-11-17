@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yu-Zhen Yan  
-**National Taipei University of Technology** | 📧 **zhenyan0731@gmail.com**
+**National Taipei University of Technology** | 
 
 ---
 
