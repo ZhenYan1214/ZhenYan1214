@@ -9,19 +9,29 @@ I’m a junior student passionate about technical learning and hands-on projects
 I enjoy challenging myself through various hackathons and competitions to gain real-world experience. I also pursue professional certifications to strengthen my technical foundation.
 
 ## Tech Stack
+
 <div align="center">
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,vue" height="48" />
-
-### Backend / System  
-<img src="https://skillicons.dev/icons?i=python,go,nodejs,linux,docker,git" height="48" />
-
-### Blockchain  
-<img src="https://skillicons.dev/icons?i=solidity" height="48" />
-<img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=fire&logoColor=white" height="48" />
+<table>
+<tr>
+<td align="center" width="200">
+<b>Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue" height="45" />
+</td>
+<td align="center" width="200">
+<b>Backend / System</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,go,nodejs,linux,docker,git" height="45" />
+</td>
+<td align="center" width="200">
+<b>Blockchain</b><br><br>
+<img src="https://skillicons.dev/icons?i=solidity" height="45" /><br>
+<img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=fire&logoColor=white" height="25" />
+</td>
+</tr>
+</table>
 
 </div>
+
 
 
 ## Competition Experience  
