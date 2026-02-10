@@ -20,12 +20,7 @@ I enjoy challenging myself through various hackathons and competitions to gain r
 ### **Backend / System**
 <p>
   <img src="https://skillicons.dev/icons?i=python,go,nodejs,linux,docker,git" height="40" />
-</p>
-
-### **Blockchain**
-<p>
   <img src="https://skillicons.dev/icons?i=solidity" height="40" />
-  <img src="https://img.shields.io/badge/Foundry-black?style=for-the-badge&logoColor=white&logo=fire" height="40" />
 </p>
 
 ---
