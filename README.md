@@ -6,7 +6,7 @@
 ## About Me 
 I’m a junior student passionate about technical learning and hands-on projects, with a current focus on data analysis, full-stack development, and blockchain technologies.
 
-I enjoy challenging myself through various hackathons and competitions to gain real-world experience. I also pursue professional certifications to strengthen my technical foundation.
+I enjoy challenging myself through various hackathons and competitions to gain real-world experience.
 
 ---
 
@@ -37,20 +37,7 @@ I enjoy challenging myself through various hackathons and competitions to gain r
 - ETHGlobal Hackson Taipei – Finalist
 - ETHGlobal Hackson Online - Avail 4th Place
 - Landseed University IT Innovation Competition – 2nd Place
----
 
-## Certifications  
-- TQC Advanced PowerPoint / Excel
-- Securities Senior Sales Representative
-- SITC Sales Representative
-- FinTech Competency / Financial Literacy & Ethics
-- IPASS Cybersecurity Associate / ISC2 Certified in Cybersecurity (CC)
-- Accounting Assistant / CSIE Class C Technician
-- Software Application Class B Technician
-
-
-
----
 
 
 ## Contact Me 
