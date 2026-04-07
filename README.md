@@ -1,6 +1,6 @@
 
 ## About Me 
-I’m a junior student passionate about technical learning and hands-on projects, with a current focus on data analysis, full-stack development, and blockchain technologies.
+I’m a junior student passionate about technical learning and hands-on projects, with a current focus on blockchain technologies and Ai.
 
 I enjoy challenging myself through various hackathons and competitions to gain real-world experience.
 
