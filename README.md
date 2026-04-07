@@ -7,13 +7,6 @@ I enjoy challenging myself through various hackathons and competitions to gain r
 ---
 
 ## Code With
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=" height="40" />
-</p>
-
-### **Backend / System**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,go,nodejs,linux,docker,git" height="40" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" />
