@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ Stack
+## Stack
 
 <div align="center">
 
@@ -50,40 +50,7 @@
 
 </div>
 
----
-
-## 💼 Experience
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| <img src="https://img.shields.io/badge/Taiwan_Mobile-E60012?style=for-the-badge&logoColor=white" /> | **Blockchain Intern** · Feb 2025 – Present |
-
-</div>
-
-- Ethereum node ops · Geth / Nethermind EL+CL deployment on Linux + Docker
-- DVT hands-on · Obol · SSV · Lido CSM · DKG workflows
-- Prometheus + Grafana monitoring dashboards for validators & node health
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-| Project | Tech | Award |
-|:---|:---|:---:|
-| **DeFi Asset Manager** — Auto-consolidates wallet dust → yield vault | `ERC-4626` `ERC-4337` `1inch` `MultiBaas` | 🏆 ETH Global Taipei **Finalist** |
-| **GasPass** — Cross-chain auto Gas refill protocol | `ERC-3525` `Avail` `Lit Protocol` `Ethers.js` | 🥉 ETH Global Online **4th** |
-| **糖小護 mHealth** — Multimodal diabetes health LINE Bot | `Python` `RAG` `Gemini API` `Firebase` `LIFF` | 🥈 National Contest **2nd** |
-| **Web3 Scratch** — On-chain scratch lottery DApp | `ERC-721` `Chainlink VRF` `Vue` `Hardhat` | — |
-
-</div>
-
----
-
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZhenYan1214&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
