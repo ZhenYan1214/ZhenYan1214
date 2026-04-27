@@ -24,23 +24,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=solidity" height="40" />
-&nbsp;
-<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="40" />
-&nbsp;
-<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" height="40" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black" height="40" />
-&nbsp;
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" height="40" />
+<img src="https://skillicons.dev/icons?i=solidity,html,css,js,ts,vue,nodejs,python,linux,docker,git" height="40" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,python,linux,docker,git" height="40" />
+<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
 </div>
 
@@ -52,10 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZhenYan1214&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenYan1214&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZhenYan1214&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 <br/>
