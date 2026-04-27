@@ -24,9 +24,7 @@
 
 <div align="center">
 
-**Blockchain**
-<br/>
-<img src="https://skillicons.dev/icons?i=solidity" height="40" title="Solidity" />
+<img src="https://skillicons.dev/icons?i=solidity" height="40" />
 &nbsp;
 <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="40" />
 &nbsp;
@@ -38,17 +36,15 @@
 
 <br/><br/>
 
-**Frontend · Backend · Infra**
-<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,python,linux,docker,git" height="40" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="32" />
 &nbsp;
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="40" />
 
 </div>
+
+---
 
 ## Stats
 
