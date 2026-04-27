@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <b>Blockchain Intern @ Taiwan Mobile</b> &nbsp;·&nbsp; NTUT Information Management '26 &nbsp;·&nbsp; ETH Global Taipei Finalist
+  <b>Blockchain Intern @ Taiwan Mobile</b> &nbsp;·&nbsp; NTUT Information Management '26 
 </div>
 
 <br/>
